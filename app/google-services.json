@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "498668297080",
+    "firebase_url": "https://swu-team1-finalproject.firebaseio.com",
+    "project_id": "swu-team1-finalproject",
+    "storage_bucket": "swu-team1-finalproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498668297080:android:b0af5323388d8587",
+        "android_client_info": {
+          "package_name": "team1.afinal.swu.deliciouswu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498668297080-jhlcu4m9t26o5h3r5uqgbl5in1ava2aa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "team1.afinal.swu.deliciouswu",
+            "certificate_hash": "2311d4d97fd1660edbcef48f497d7533587dd206"
+          }
+        },
+        {
+          "client_id": "498668297080-2362bper01dupljbgscemproo15jvibm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8f3ARoUEpfSitLLyMCqe1KW-PwCrf2Zo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498668297080-2362bper01dupljbgscemproo15jvibm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DeliciouSWU</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="store">
+        <item >가게선택</item>
+        <item >스타벅스</item>
+        <item >가은</item>
+        <item >팬도로시</item>
+        <item >비틀주스</item>
+        <item >퀴즈노스</item>
+        <item >감탄떡볶이</item>
+        <item >츄밥</item>
+        <item >오니기리와 이규동</item>
+        <item >에땅</item>
+    </string-array>
+</resources>
